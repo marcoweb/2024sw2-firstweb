@@ -1,0 +1,8 @@
+image: gitpod/workspace-java-17
+
+vscode:
+    extensions:
+      - vscjava.vscode-java-pack
+      - humao.rest-client
+      - vscjava.vscode-gradle
+
